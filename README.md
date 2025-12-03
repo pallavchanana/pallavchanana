@@ -1,4 +1,6 @@
 <div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
+
   <h1 align="center">Hello <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" height="40" width="40" alt="pc" /> I'm Pallav Chanana </h1> <img align="right" src="https://user-images.githubusercontent.com/74038190/212259469-6b5a27d8-22c1-4716-9341-bef01e72dd21.jpg" alt="pc" /> 
 <div>
 <br>
@@ -6,15 +8,29 @@
   <h4>
 I developed AI-powered, cloud-native applications at the intersection of GenAI/LLM integration and full-stack development. From healthcare automation to IIoT platforms, I design scalable microservices, engineer LLM workflows, and drive engineering optimization across Azure and AWS.
 </h4>
+
+<p align="center">
+  Content Creator | Gamer | Tech Enthusiast
+</p>
+
+<div align="center">
+<div align="center">
+  <h2>🌐 Connect with Me</h2>
+  <p>Discover my work and connect on these platforms!</p>
+
+ | Pallav Chanana | YouTube | Instagram | LinkedIn | Github |
+| --- | --- | --- | --- | --- |
+| [![Pallav Chanana](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=pallav&size=square)](https://pallavchananaportfolio.vercel.app/) | [![pallavchanana](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40pallavchanana&subtitle=@pallavchanana&size=square)](https://www.youtube.com/@pallavchanana) | [![pallavchanana](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fpallavchanana%2F&subtitle=@pallavchanana&size=square)](https://www.instagram.com/pallavchanana/) | [![Pallav Chanana](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpallavchanana%2F&subtitle=@Pallav+Chanana&size=square)](https://www.linkedin.com/in/pallavchanana/) | [![Pallav Chanana](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Fpallavchanana&subtitle=@Pallav+Chanana&size=square)](https://github.com/pallavchanana) |
+
+
+
+
+
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meetjain1&label=Profile%20views&color=0e75b6&style=flat" alt="pc" /> </p> 
 
 - Open to Work : Currently looking for exciting opportunities. Feel free to reach out via LinkedIn or Email.
 
-- Portfolio : https://pallavchananaportfolio.vercel.app
-
-- Email     :  pallav.chanana@gmail.com
-- Linkedin  : https://www.linkedin.com/in/pallavchanana
 
 
    
