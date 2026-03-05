@@ -10,7 +10,7 @@ I developed AI-powered, cloud-native applications at the intersection of GenAI/L
 </h4>
 
 <p align="center">
-  Content Creator | Gamer | Tech Enthusiast
+  Software Engineer  | Tech Enthusiast
 </p>
 
 <div align="center">
@@ -31,7 +31,7 @@ I developed AI-powered, cloud-native applications at the intersection of GenAI/L
 
 - Open to Work : Currently looking for exciting opportunities. Feel free to reach out via LinkedIn or Email.
 
-
+- StackOverflow https://stackoverflow.com/users/10538842/pallav-chanana?tab=profile 
 
    
 <hr>
